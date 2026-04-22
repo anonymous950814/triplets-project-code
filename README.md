@@ -11,8 +11,6 @@
 
 ## Repository layout
 
-The data folder is not available here because the files are too big. Please contact a.t.lopesrego@vu.nl if you'd like to have any of our processed datasets.
-
 | Path / file                            | What it holds                                                                                                                                |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | **src/process_corpus.py**              | Code that process the eye movement data files from MECO and OneStop corpora. Python file that produces the step-level JSON files             |
